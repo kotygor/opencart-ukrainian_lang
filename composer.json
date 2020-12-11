@@ -291,7 +291,10 @@
 			"catalog/language/uk-ua/tool/upload.php",
 			"catalog/language/uk-ua/uk-ua.php",
 			"catalog/language/uk-ua/uk-ua.png"
-		]
+		],
+		"installers" : {
+			"php" : "install.php"
+		}
 	},
 	"require": {
 		"kotygor/opencart-extension-installer": "*",
