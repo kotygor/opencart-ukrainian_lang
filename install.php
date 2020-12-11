@@ -14,6 +14,7 @@ $languageData = [
 $currency_data = [
 	'title' =>  'Гривня',
 	'code'  =>  'UAH',
+	'value' =>  1,
 	'symbol_left'   =>  '',
 	'symbol_right'  =>  'грн',
 	'decimal_place' =>  2,
