@@ -14,4 +14,4 @@ $_['text_account'] = 'Особистий Кабінет';
 $_['text_order'] = 'Історія замовлень';
 $_['text_wishlist'] = 'Закладки';
 $_['text_newsletter'] = 'Розсилка';
-$_['text_powered']      = '<a rel="nofollow" href="https://proplat.biz" target="_blank">Розробка інтернет магазинів</a> %s &copy; %s';
+$_['text_powered']      = '<a rel="nofollow" href="#" target="_blank">Розробка інтернет магазинів</a> %s &copy; %s';
