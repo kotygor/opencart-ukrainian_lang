@@ -7,6 +7,7 @@
 $languageData = [
 	'name'  =>  "Українська",
 	'code'  =>  "uk-ua",
+	'url_code'  =>  "ua",
 	'locale'    =>  'ua_UA.UTF-8,ua_UA,ua_UA,ua',
 	'sort_order'    =>  0,
 	'status'    =>  1,
