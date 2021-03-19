@@ -1,6 +1,6 @@
 {
 	"name": "kotygor/opencart-ukrainian_lang",
-	"descripiton": "Український переклад для CMS Opencart",
+	"description": "Український переклад для CMS Opencart",
 	"type": "opencart-extension",
 	"extra": {
 		"src-dir" : "upload",
@@ -46,8 +46,8 @@
 			"admin/language/uk-ua/error/not_found.php",
 			"admin/language/uk-ua/error/permission.php",
 			"admin/language/uk-ua/extension/analytics/google_analytics.php",
-			"admin/language/uk-ua/extension/captcha/basic_captcha.php",
-			"admin/language/uk-ua/extension/captcha/google_captcha.php",
+			"admin/language/uk-ua/extension/captcha/basic.php",
+			"admin/language/uk-ua/extension/captcha/google.php",
 			"admin/language/uk-ua/extension/dashboard/activity.php",
 			"admin/language/uk-ua/extension/dashboard/chart.php",
 			"admin/language/uk-ua/extension/dashboard/customer.php",
