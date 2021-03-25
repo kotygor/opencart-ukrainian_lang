@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modification>
+	<name>Ukrainian lang mod</name>
+	<version>1</version>
+	<author>JD</author>
+	<link>zelenuj@gmail.com</link>
+	<code>Ukrainian lang mod</code>
+	<file path="catalog/controller/checkout/success.php">
+		<operation>
+			<search><![CDATA[
+			$data['text_message'] = sprintf($this->language->get('text_customer'), $this->url->link('account/account', '', true), $this->url->link('account/order', '', true), $this->url->link('account/download', '', true), $this->url->link('information/contact'));
+            ]]></search>
+			<add position="replace"><![CDATA[
+			// << opencart-ukrainian_lang.ocmod.xml
+			$data['text_message'] = sprintf($this->language->get('text_customer'), $this->url->link('account/account', '', true), $this->url->link('account/order', '', true), $this->url->link('information/contact'));
+			// >> opencart-ukrainian_lang.ocmod.xml
+            ]]></add>
+		</operation>
+	</file>
+</modification>

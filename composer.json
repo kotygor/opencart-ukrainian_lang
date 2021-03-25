@@ -293,7 +293,8 @@
 			"catalog/language/uk-ua/uk-ua.png"
 		],
 		"installers" : {
-			"php" : "install.php"
+			"php": "install.php",
+			"xml": "install.xml"
 		}
 	},
 	"require": {
