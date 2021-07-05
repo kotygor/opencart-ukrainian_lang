@@ -280,6 +280,7 @@
 			"catalog/language/uk-ua/mail/order_add.php",
 			"catalog/language/uk-ua/mail/order_alert.php",
 			"catalog/language/uk-ua/mail/order_edit.php",
+			"catalog/language/uk-ua/mail/register.php",
 			"catalog/language/uk-ua/mail/review.php",
 			"catalog/language/uk-ua/mail/voucher.php",
 			"catalog/language/uk-ua/product/category.php",
@@ -298,17 +299,12 @@
 		}
 	},
 	"require": {
-		"kotygor/opencart-extension-installer": "*",
-		"kotygor/opencart": "*"
+		"kotygor/opencart-extension-installer": "*"
 	},
 	"repositories": [
 		{
 			"type": "git",
 			"url": "https://github.com/kotygor/opencart-extension-installer"
-		},
-		{
-			"type": "git",
-			"url": "https://github.com/kotygor/opencart"
 		}
 	]
 }
